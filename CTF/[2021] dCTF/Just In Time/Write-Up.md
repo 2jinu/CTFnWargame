@@ -15,7 +15,7 @@
 
 첨부파일
 
-[justintime.zip](https://rdmd.readme.io/docs/code-blocks)
+[justintime.zip](https://github.com/2jinu/CTFnWargame/raw/main/CTF/%5B2021%5D%20dCTF/Just%20In%20Time/file/justintime.zip)
 
 
 # **Write-Up**
