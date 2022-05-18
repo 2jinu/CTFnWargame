@@ -15,7 +15,7 @@
 
 첨부파일
 
-[secret_app.zip](https://rdmd.readme.io/docs/code-blocks)
+[secret_app.zip](https://github.com/2jinu/CTFnWargame/raw/main/CTF/%5B2021%5D%20DawgCTF/Secret%20App/file/secret_app.zip)
 
 
 # **Write-Up**
