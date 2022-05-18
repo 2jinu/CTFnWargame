@@ -15,7 +15,7 @@
 
 첨부파일
 
-[dist.zip](https://rdmd.readme.io/docs/code-blocks)
+[dist.zip](https://github.com/2jinu/CTFnWargame/raw/main/CTF/%5B2021%5D%20ImaginaryCTF%20Round10/Green%20shell/file/dist.zip)
 
 
 # **Write-Up**
