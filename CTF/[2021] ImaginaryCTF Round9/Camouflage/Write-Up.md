@@ -15,7 +15,7 @@
 
 첨부파일
 
-[Camouflage.png](https://rdmd.readme.io/docs/code-blocks)
+[Camouflage.png](https://github.com/2jinu/CTFnWargame/raw/main/CTF/%5B2021%5D%20ImaginaryCTF%20Round9/Camouflage/file/Camouflage.png)
 
 
 # **Write-Up**
