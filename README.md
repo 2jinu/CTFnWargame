@@ -1,5 +1,4 @@
 # Wargame
-Wargame Write-Up
 
 |Wargame|Rank|Solved|Date|
 |:---:|:---:|:---:|:---:|
@@ -8,3 +7,9 @@ Wargame Write-Up
 |webhacking.kr|24|70/75|2022-01-19 02:31:21|
 |pwnable.kr|600|38/67||
 |reversing.kr|1020|8/27||
+
+# CTF
+
+|CTF|Rank|Date|
+|:---:|:---:|:---:|:---:|
+|wargame.kr|10|2021-09-11|
