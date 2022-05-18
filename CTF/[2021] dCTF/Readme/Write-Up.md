@@ -15,7 +15,7 @@
 
 첨부파일
 
-[readme.zip](https://rdmd.readme.io/docs/code-blocks)
+[readme.zip](https://github.com/2jinu/CTFnWargame/raw/main/CTF/%5B2021%5D%20dCTF/Readme/file/readme.zip)
 
 
 # **Write-Up**
