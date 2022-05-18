@@ -15,7 +15,7 @@
 
 첨부파일
 
-[E0FA-wpre.py](https://github.com/2jinu/CTFnWargame/blob/main/CTF/ImaginaryCTF%20Round9/lookup-rev/file/E0FA-wpre.py)
+[syscall_me_maybe_](https://github.com/2jinu/CTFnWargame/raw/main/CTF/ImaginaryCTF%20Round10/syscall%20me%20maybe/file/syscall_me_maybe_)
 
 
 # **Write-Up**
@@ -32,7 +32,7 @@ flag를 획득하기 위해 shell을 얻을 것이고, 이를 위하여 sys_exec
 |:---:|:---:|:---:|:---:|:---:|
 |59|sys_execve|const char *filename|const char *const argv[]|const char *const envp[]|
 
-* [sys call table](https://github.com/2jinu/CTFnWargame/blob/main/CTF/ImaginaryCTF%20Round9/lookup-rev/file/E0FA-wpre.py)
+* [sys call table](https://github.com/2jinu/CTFnWargame/raw/main/CTF/ImaginaryCTF%20Round10/syscall%20me%20maybe/file/sys_call_table.xlsx)
 
 
 1. rax는 59(0x3B)여야만 sys_execve가 되므로 마지막 sys_read에서는 0x3B를 전달하여야 한다.
