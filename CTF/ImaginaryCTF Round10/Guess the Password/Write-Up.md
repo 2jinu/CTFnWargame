@@ -15,7 +15,7 @@
 
 첨부파일
 
-[CODE BLOCK](https://rdmd.readme.io/docs/code-blocks)
+[EoFF.password.py](https://github.com/2jinu/CTFnWargame/blob/main/CTF/ImaginaryCTF%20Round10/Guess%20the%20Password/file/EoFF.password.py)
 
 # **Write-Up**
 
