@@ -15,8 +15,8 @@
 
 첨부파일
 
-[horst.py](https://rdmd.readme.io/docs/code-blocks)
-[out.txt](https://rdmd.readme.io/docs/code-blocks)
+[horst.py](https://github.com/2jinu/CTFnWargame/blob/main/CTF/%5B2021%5D%20ImaginaryCTF%20Round10/Horst/file/horst.py)
+[out.txt](https://github.com/2jinu/CTFnWargame/blob/main/CTF/%5B2021%5D%20ImaginaryCTF%20Round10/Horst/file/out.txt)
 
 
 # **Write-Up**
