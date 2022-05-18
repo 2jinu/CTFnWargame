@@ -15,7 +15,7 @@
 
 첨부파일
 
-[flag.txt](https://rdmd.readme.io/docs/code-blocks)
+[flag.txt](https://github.com/2jinu/CTFnWargame/blob/main/CTF/%5B2021%5D%20dCTF/Julius'%20ancient%20script/file/flag.txt)
 
 
 # **Write-Up**
