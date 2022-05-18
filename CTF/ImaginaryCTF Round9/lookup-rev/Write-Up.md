@@ -15,7 +15,7 @@
 
 첨부파일
 
-[E0FA-wpre.py](https://github.com/2jinu/CTFnWargame/raw/main/CTF/ImaginaryCTF%20Round9/file/E0FA-wpre.py)
+[E0FA-wpre.py](https://github.com/2jinu/CTFnWargame/blob/main/CTF/ImaginaryCTF%20Round9/lookup-rev/file/E0FA-wpre.py)
 
 # **Write-Up**
 

@@ -15,7 +15,7 @@
 
 첨부파일
 
-[Form_a_String.rar](https://github.com/2jinu/CTFnWargame/raw/main/CTF/ImaginaryCTF%20Round9/file/Form_a_String.rar)
+[Form_a_String.rar](https://github.com/2jinu/CTFnWargame/raw/main/CTF/ImaginaryCTF%20Round9/Form%20a%20String/file/Form_a_String.rar)
 
 # **Write-Up**
 
