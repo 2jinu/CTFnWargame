@@ -15,7 +15,7 @@
 
 첨부파일
 
-[dragon.png](https://rdmd.readme.io/docs/code-blocks)
+[dragon.png](https://github.com/2jinu/CTFnWargame/raw/main/CTF/%5B2021%5D%20dCTF/Dragon/file/dragon.png)
 
 
 # **Write-Up**
