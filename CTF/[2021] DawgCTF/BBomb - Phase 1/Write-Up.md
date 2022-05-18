@@ -15,7 +15,7 @@
 
 첨부파일
 
-[bbomb.zip](https://rdmd.readme.io/docs/code-blocks)
+[bbomb.zip](https://github.com/2jinu/CTFnWargame/raw/main/CTF/%5B2021%5D%20DawgCTF/BBomb%20-%20Phase%201/file/bbomb.zip)
 
 
 # **Write-Up**

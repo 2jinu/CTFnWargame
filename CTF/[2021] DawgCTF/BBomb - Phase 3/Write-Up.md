@@ -15,12 +15,12 @@
 
 첨부파일
 
-BBomb - Phase 1의 파일을 사용
+[BBomb - Phase 1](https://github.com/2jinu/CTFnWargame/blob/main/CTF/%5B2021%5D%20DawgCTF/BBomb%20-%20Phase%201/Write-Up.md)의 파일을 사용
 
 
 # **Write-Up**
 
-[BBomb - Phase 1](https://rdmd.readme.io/docs/code-blocks)과 같이 Phase3으로 진입한다.
+[BBomb - Phase 1](https://github.com/2jinu/CTFnWargame/blob/main/CTF/%5B2021%5D%20DawgCTF/BBomb%20-%20Phase%201/Write-Up.md)과 같이 Phase3으로 진입한다.
 
 ![](images/2022-05-18-20-13-43.png)
 
