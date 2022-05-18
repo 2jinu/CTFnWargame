@@ -15,7 +15,7 @@
 
 첨부파일
 
-[fri.png](https://rdmd.readme.io/docs/code-blocks)
+[fri.png](https://github.com/2jinu/CTFnWargame/raw/main/CTF/%5B2021%5D%20dCTF/Hidden%20message/file/fri.png)
 
 
 # **Write-Up**
