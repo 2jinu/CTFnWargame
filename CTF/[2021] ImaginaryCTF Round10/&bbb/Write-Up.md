@@ -15,7 +15,7 @@
 
 첨부파일
 
-[aaa.zip](https://rdmd.readme.io/docs/code-blocks)
+[aaa.zip](https://github.com/2jinu/CTFnWargame/raw/main/CTF/%5B2021%5D%20ImaginaryCTF%20Round10/%26bbb/file/aaa.zip)
 
 
 # **Write-Up**
