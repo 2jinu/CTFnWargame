@@ -15,7 +15,7 @@
 
 첨부파일
 
-[CODE BLOCK](https://rdmd.readme.io/docs/code-blocks)
+[output.txt](https://github.com/2jinu/CTFnWargame/blob/main/CTF/ImaginaryCTF%20Round9/Optimal%20RSA/file/output.txt)
 
 # **Write-Up**
 

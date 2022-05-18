@@ -12,4 +12,5 @@
 
 |CTF|Rank|Date|
 |:---:|:---:|:---:|
-|wargame.kr|10|2021-09-11|
+|ImaginaryCTF Round9|||
+|ImaginaryCTF Round10|||
