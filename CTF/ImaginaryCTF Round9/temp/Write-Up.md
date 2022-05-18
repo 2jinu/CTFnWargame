@@ -11,9 +11,9 @@
 
 # **Description**
 
-![](images/2022-05-18-16-51-47.png)
+Paste Image (Ctrl+Alt+V)
+![](images/2022-01-02-23-22-25.png)
 
-[Form_a_String.rar](https://github.com/2jinu/CTFnWargame/raw/main/CTF/ImaginaryCTF%20Round9/file/Form_a_String.rar)
 
 # **Write-Up**
 
