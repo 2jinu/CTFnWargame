@@ -15,7 +15,7 @@
 
 첨부파일
 
-[pinch_me.zip](https://rdmd.readme.io/docs/code-blocks)
+[pinch_me.zip](https://github.com/2jinu/CTFnWargame/raw/main/CTF/%5B2021%5D%20dCTF/Pinch%20me/file/pinch_me.zip)
 
 
 # **Write-Up**
