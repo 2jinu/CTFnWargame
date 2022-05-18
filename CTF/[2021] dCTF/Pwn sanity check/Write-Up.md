@@ -15,7 +15,7 @@
 
 첨부파일
 
-[pwn_sanity_check.zip](https://rdmd.readme.io/docs/code-blocks)
+[pwn_sanity_check.zip](https://github.com/2jinu/CTFnWargame/raw/main/CTF/%5B2021%5D%20dCTF/Pwn%20sanity%20check/file/pwn_sanity_check.zip)
 
 
 # **Write-Up**
