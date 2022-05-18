@@ -15,7 +15,7 @@
 
 첨부파일
 
-[redos.py](https://rdmd.readme.io/docs/code-blocks)
+[redos.py](https://github.com/2jinu/CTFnWargame/blob/main/CTF/%5B2021%5D%20ImaginaryCTF%20Round9/ReDOS/file/redos.py)
 
 
 # **Write-Up**
