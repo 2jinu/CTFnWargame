@@ -15,12 +15,12 @@
 
 첨부파일
 
-[dragon.pdf](https://rdmd.readme.io/docs/code-blocks)
+[dragon.pdf](https://github.com/2jinu/CTFnWargame/raw/main/CTF/%5B2021%5D%20dCTF/Don't%20let%20it%20run/file/dragon.pdf)
 
 
 # **Write-Up**
 
-[peepdf.py](https://rdmd.readme.io/docs/code-blocks)으로 dragon.pdf를 열어보면 javascript가 object 3에 존재한다는 것을 확인할 수 있다.
+[peepdf.py](https://github.com/2jinu/CTFnWargame/raw/main/CTF/%5B2021%5D%20dCTF/Don't%20let%20it%20run/file/peepdf_0.3.zip)으로 dragon.pdf를 열어보면 javascript가 object 3에 존재한다는 것을 확인할 수 있다.
 
 ![](images/2022-05-18-19-33-06.png)
 
