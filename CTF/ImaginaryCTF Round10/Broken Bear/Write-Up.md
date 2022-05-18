@@ -15,7 +15,7 @@
 
 첨부파일
 
-[broken_bear.png](https://rdmd.readme.io/docs/code-blocks)
+[broken_bear.png](https://github.com/2jinu/CTFnWargame/raw/main/CTF/ImaginaryCTF%20Round10/Broken%20Bear/file/broken_bear.png)
 
 # **Write-Up**
 
