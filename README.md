@@ -12,6 +12,7 @@
 
 |CTF|Rank|Date|
 |:---:|:---:|:---:|
-|ImaginaryCTF Round9|||
-|ImaginaryCTF Round10|||
-|2021 dCTF|226|2021-05-17|
+|2021 ImaginaryCTF Round9|||
+|2021 ImaginaryCTF Round10|||
+|2021 dCTF|226(20.85%)|2021-05-17|
+|2021 DawgCTF|265(44.53%)|2021-05-09|
