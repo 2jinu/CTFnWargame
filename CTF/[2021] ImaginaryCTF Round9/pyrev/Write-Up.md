@@ -15,7 +15,7 @@
 
 첨부파일
 
-[out.txt](https://rdmd.readme.io/docs/code-blocks)
+[out.txt](https://github.com/2jinu/CTFnWargame/blob/main/CTF/%5B2021%5D%20ImaginaryCTF%20Round9/pyrev/file/out.txt)
 
 
 # **Write-Up**
