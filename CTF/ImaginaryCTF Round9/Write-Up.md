@@ -13,7 +13,7 @@
 
 ![](images/2022-05-18-16-51-47.png)
 
-> [문제 파일](https://github.com/2jinu/CTFnWargame/CTF/ImaginaryCTF/Round9/file/Form_a_String.rar)
+[Form_a_String.rar](https://github.com/2jinu/CTFnWargame/raw/main/CTF/ImaginaryCTF%20Round9/file/Form_a_String.rar)
 
 # **Write-Up**
 
